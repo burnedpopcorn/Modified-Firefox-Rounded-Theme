@@ -16,6 +16,12 @@ You can add a wallpaper if:
 - You rename the image to "wallpaper.jpg"
 - If it is located inside of the "/chrome" directory (which is provided in this repository)
 
+## Thanks To
+
+- Khalylexe, for the original Firefox-Rounded-Theme (https://github.com/Khalylexe/Firefox-Rounded-Theme)
+- bmFtZQ, for the newtab.css, used in his own theme, edge-frfox, and used within this theme for the round search bar
+- Me, burnedpopcorn180, for mashing them together
+
 ## Compatibility
 
 <ul>
