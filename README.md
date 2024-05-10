@@ -10,10 +10,16 @@
    <li>Restart the browser.</li>
 </ol>
 
+## Adding Wallpaper to New Tab Page
+
+You can add a wallpaper if:
+- You rename the image to "wallpaper.jpg"
+- If it is located inside of the "/chrome" directory (which is provided in this repository)
+
 ## Compatibility
 
 <ul>
-<li>Linux Distros (Only Linux Mint)</li>
+<li>Linux Distros (Tested Only on Linux Mint)</li>
 <li>Windows 10 (Tested)</li>
 <li>Other Operating Systems not listed above have not been tested</li>
 </ul>
