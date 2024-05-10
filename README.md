@@ -19,7 +19,7 @@ You can add a wallpaper if:
 ## Thanks To
 
 - Khalylexe, for the original Firefox-Rounded-Theme (https://github.com/Khalylexe/Firefox-Rounded-Theme)
-- bmFtZQ, for the newtab.css, used in his own theme, edge-frfox, and used within this theme for the round search bar
+- bmFtZQ, for the newtab.css, used in his own theme, edge-frfox, and used within this theme for the round search bar (https://github.com/bmFtZQ/edge-frfox)
 - Me, burnedpopcorn180, for mashing them together
 
 ## Compatibility
