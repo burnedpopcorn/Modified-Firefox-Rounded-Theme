@@ -1,6 +1,6 @@
 # Modified-Firefox-Rounded-Corners
 
-![image](https://github.com/burnedpopcorn/Modified-Firefox-Rounded-Theme/blob/main/Round%20Firefox.png)
+![image]()
 
 ## Steps to configure the theme
 <ol>
