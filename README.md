@@ -10,7 +10,7 @@
 ## Steps to configure the theme
 <ol>
    <li>Go to <code>about:support</code> and search for <code>Profile Directory</code> and press the <code>Open Directory</code> key</li>
-   <li>Download the source code from the <code>Releases</code> section</li>
+   <li>Download the source code from the <code>Download ZIP</code> button within the Code button menu</li>
    <li>Unzip the file and copy the <code>chrome</code> folder into your Firefox profile directory</li>
    <li>Restart the browser.</li>
 </ol>
