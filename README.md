@@ -16,6 +16,8 @@ You can add a wallpaper if:
 - You rename the image to "wallpaper.jpg"
 - If it is located inside of the "/chrome" directory (which is provided in this repository)
 
+![image](https://github.com/burnedpopcorn/Modified-Firefox-Rounded-Theme/blob/main/Round-Firefox-wWallpaper.png)
+
 ## Thanks To
 
 - Khalylexe, for the original Firefox-Rounded-Theme (https://github.com/Khalylexe/Firefox-Rounded-Theme)
