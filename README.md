@@ -28,6 +28,6 @@ You can add a wallpaper if:
 
 <ul>
 <li>Linux Distros (Tested Only on Linux Mint)</li>
-<li>Windows 10 (Not Tested)</li>
+<li>Windows 10 (Not Yet Tested)</li>
 <li>Other Operating Systems not listed above have not been tested</li>
 </ul>
