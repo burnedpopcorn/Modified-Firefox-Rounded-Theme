@@ -2,7 +2,7 @@
 
 ![image](https://github.com/burnedpopcorn/Modified-Firefox-Rounded-Theme/blob/main/Round-Firefox.png)
 
-## Steps to configure the theme
+## Steps to configure the theme on Linux Mint
 <ol>
    <li>Go to <code>about:support</code> and search for <code>Profile Directory</code> and press the <code>Open Directory</code> key</li>
    <li>Download the source code from the <code>Download ZIP</code> button within the Code button menu</li>
@@ -28,6 +28,6 @@ You can add a wallpaper if:
 
 <ul>
 <li>Linux Distros (Tested Only on Linux Mint)</li>
-<li>Windows 10 (Tested)</li>
+<li>Windows 10 (Not Tested)</li>
 <li>Other Operating Systems not listed above have not been tested</li>
 </ul>
